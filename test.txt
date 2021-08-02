@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 test
 ветка 3 и 4
+=======
+branch 1
+
+
+br1, commit1
+>>>>>>> test1_br
